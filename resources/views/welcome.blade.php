@@ -11,7 +11,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: black;
+                background-color: green;
                 color: #fff;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -61,7 +61,7 @@
                 margin-bottom: 30px;
             }
         </style>
-        <link href="{{ mix('css/app.css') }}" rel="stylesheet" type="text/css">
+        <!-- <link href="{{ mix('css/app.css') }}" rel="stylesheet" type="text/css"> -->
     </head>
     <body>
         <div class="flex-center position-ref full-height">
