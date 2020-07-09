@@ -11,7 +11,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: black;
+                background-color: green;
                 color: #fff;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
